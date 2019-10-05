@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+body{
+	background-image:url(""WebContent/vaibhav.jpg"");
+	align-content:center;
+	margin : auto;
+}
+
+h1{
+	
+	margin : auto;
+	align-content: center;
+}
+
+table
+{
+	font-size: large;
+	font-family:monospace;
+	border-color:fuchsia;
+	margin : auto;
+	align-content: center; 
+	table-width : 640px;	
+}
+
+th{
+	background: #FAFAFA;
+	text-align: center;
+	font-weight: bolder;
+	color:navy;
+	border: 1px solid #ccc;
+}
+
+td
+{
+	background: #FAFAFA;
+	text-align: center;
+	color:maroon;
+	border: 1px solid #ccc;
+}
+
+#container
+{
+	background-image:url(""WebContent/vaibhav.jpg"");
+	position: fixed;
+	width: 340px;
+	height: 280px;
+	top: 50%;
+	left: 50%;
+	margin-top: -140px;
+	margin-left: -315px;
+}
+
+#fontCSS{
+	font-family: 'Mansalva', cursive;
+}
+
+#backImg{
+	width : 100%;
+	height : 100%
+	background-color:skyblue;
+	background-img : url('vaibhav.png');
+}
